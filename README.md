@@ -7,11 +7,11 @@ With over 15 years of experience in healthcare, I specialise in business intelli
 
 ## 🌟 What I Do
 
--🛠️ Developing innovative solutions using Python, Pygame, and Git to enhance efficiency and functionality.
--🌐 Leveraging version control systems like GitHub and GitLab to foster collaboration and streamline complex workflows.
--📘 Continuously advancing expertise in business intelligence, data automation, and IT systems optimisation while sharing insights with the community.
--📊 Creating data-driven insights and automating workflows using tools like Power Automate, Office 365, and Microsoft Azure to optimise processes.
--🔧 Exploring and integrating low-code automation solutions to drive impactful improvements across various domains.
+- 🛠️ Developing innovative solutions using Python, Pygame, and Git to enhance efficiency and functionality.
+- 🌐 Leveraging version control systems like GitHub and GitLab to foster collaboration and streamline complex workflows.
+- 📘 Continuously advancing expertise in business intelligence, data automation, and IT systems optimisation while sharing insights with the community.
+- 📊 Creating data-driven insights and automating workflows using tools like Power Automate, Office 365, and Microsoft Azure to optimise processes.
+- 🔧 Exploring and integrating low-code automation solutions to drive impactful improvements across various domains.
 
 ## 🔥 Current Projects
 
