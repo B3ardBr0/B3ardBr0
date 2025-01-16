@@ -39,6 +39,6 @@ With over 15 years of experience in healthcare, I specialise in business intelli
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilhelm-jakobus-maritz-7a561b12b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjmaritz@protonmail.com)
 
-## Stats
+## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
