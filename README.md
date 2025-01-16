@@ -27,3 +27,7 @@ Hi, I’m **B3ardBr0**, a passionate developer with a love for problem-solving, 
 - 🌟 **GitHub Projects**: Feel free to explore and contribute to my repositories!
 - 💬 **ProtonMail**: wjmaritz@protonmail.com for collaboration or questions.
 - 🌟 **LinkedIn**: [Wilhelm Jakobus Maritz](https://www.linkedin.com/in/wilhelm-jakobus-maritz-7a561b12b/)
+
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
