@@ -3,7 +3,7 @@
 
 Hi, I’m B3ardBr0, a passionate developer with a love for problem-solving, learning, and sharing knowledge. From mastering Git workflows to diving deep into Python and building projects, I’m always exploring new tools and technologies to level up.
 
-With over +15 years of experience in healthcare, I specialise in business intelligence, IT operations, and emergency medical services. I excel at creating data-driven solutions and automation tools that enhance efficiency and outcomes. Passionate about innovation, continuous learning, and driving meaningful improvements, I blend technical expertise with a dedication to advancing systems and processes.
+With over 15 years of experience in healthcare, I specialise in business intelligence, IT operations, and emergency medical services. I excel at creating data-driven solutions and automation tools that enhance efficiency and outcomes. Passionate about innovation, continuous learning, and driving meaningful improvements, I blend technical expertise with a dedication to advancing systems and processes.
 
 ## 🌟 What I Do
 
