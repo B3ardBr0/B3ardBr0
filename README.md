@@ -15,6 +15,7 @@ With over 15 years of experience in healthcare, I specialise in business intelli
 
 ## 🔥 Current Projects
 
+- **Boot.dev**: Backend Developer Course.
 - **Bookbot**: A command-line tool for analyzing text files and generating insightful reports.
 - **Asteroids**: A Pygame-based arcade game reimagined with modern design principles.
 
