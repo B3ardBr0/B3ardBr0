@@ -16,11 +16,9 @@ Hi, I’m **B3ardBr0**, a passionate developer with a love for problem-solving, 
 
 ## ⚡ Skills
 
-- 🐍 Python
-- 🕹️ Pygame
-- 🛡️ Git / GitHub / GitLab
-- 💻 WSL (Windows Subsystem for Linux)
-- 🗂️ Obsidian for note-taking and project management
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=linux&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=power-automate&logoColor=white)![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 🌌 Let's Connect
 
