@@ -46,3 +46,4 @@ With over 15 years of experience in healthcare, I specialise in business intelli
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
 dsffw
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B3ardBr0&theme=github-dark&border=a78f48&stroke=a78f48&dates=a78f48&ring=a78f48&fire=a78f48)](https://git.io/streak-stats)
