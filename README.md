@@ -44,8 +44,10 @@ With over 15 years of experience in healthcare, I specialise in business intelli
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
+[![Wilhelms GitHub stats](https://github-readme-stats.vercel.app/api?username=B3ardBr0&theme=github_dark&show_icons=true&title_color=a78f48&icon_color=a78f48&border_color=a78f48)(https://github.com/anuraghazra/github-readme-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B3ardBr0&theme=github-dark&border=a78f48&stroke=a78f48&dates=a78f48&ring=a78f48&fire=a78f48)](https://git.io/streak-stats)
 
-![Wilhelms GitHub stats](https://github-readme-stats.vercel.app/api?username=B3ardBr0&theme=github_dark&show_icons=true&title_color=a78f48&icon_color=a78f48&border_color=a78f48)](https://github.com/anuraghazra/github-readme-stats)
+[![Wilhelms GitHub stats](https://github-readme-stats.vercel.app/api?username=B3ardBr0&theme=github_dark&show_icons=true&title_color=a78f48&icon_color=a78f48&border_color=a78f48)(https://github.com/anuraghazra/github-readme-stats)
