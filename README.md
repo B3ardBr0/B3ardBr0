@@ -45,4 +45,4 @@ With over 15 years of experience in healthcare, I specialise in business intelli
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Joehuu&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
