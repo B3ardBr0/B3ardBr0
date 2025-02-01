@@ -1,9 +1,7 @@
 # 👋 Welcome to Wilhelm's GitHub! 🚀
 ## 🧙‍♂️ About Me
 
-Hi, I’m Wilhelm, a passionate developer with a love for problem-solving, learning, and sharing knowledge. From mastering Git workflows to diving deep into Python and building projects, I’m always exploring new tools and technologies to level up.
-
-With over 15 years of experience in healthcare, I specialise in business intelligence, IT operations, and emergency medical services. I excel at creating data-driven solutions and automation tools that enhance efficiency and outcomes. Passionate about innovation, continuous learning, and driving meaningful improvements, I blend technical expertise with a dedication to advancing systems and processes.
+Hi, I’m Wilhelm, an experienced professional with over 15 years in the healthcare sector, currently focused on data engineering. I specialise in designing and managing data pipelines, automating workflows, and optimising systems to support business intelligence and operational efficiency. While my current role centres on data engineering, I am actively expanding my skillset in backend development, aspiring to build robust server-side applications and APIs. My commitment to continuous learning and innovation drives me to integrate data-driven solutions with modern application development for more cohesive and efficient systems.
 
 ## 🌟 What I Do
 
