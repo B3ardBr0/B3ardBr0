@@ -12,6 +12,7 @@ Hi, I’m Wilhelm, an experienced professional with over 15 years in the healthc
 ## 🔥 Current Projects
 
 - **Boot.dev**: Backend Developer Course.
+- **Static Site Generator**: A static site generator build from scratch, similar to Jekyll, Hugo, or Gatsby in Python.
 - **Bookbot**: A command-line tool for analyzing text files and generating insightful reports.
 - **Asteroids**: A Pygame-based arcade game reimagined with modern design principles.
 
