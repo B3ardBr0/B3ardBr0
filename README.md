@@ -12,8 +12,6 @@ Hi, I'm Wilhelm, an experienced professional with over 15 years in the healthcar
 ## 🔥 Current Projects
 - **IMS project**: Invatory management system for an health service.
 - **Boot.dev**: Backend Developer Course.
-- **Static Site Generator**: A static site generator build from scratch, similar to Jekyll, Hugo, or Gatsby in Python.
-- **FolderLocker_V2**: Secure Folder Locker is a Windows batch script utility designed to protect sensitive files by creating a hidden, password-protected folder on your system.
   
 ## ⚡ Skills
 <div style="display: inline-block"><br>
