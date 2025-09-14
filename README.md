@@ -7,7 +7,8 @@ Hi, I'm Wilhelm, an experienced professional with over 15 years in the healthcar
 - 🛠️ Develop scalable backend systems with Flask and modern CMS solutions using Strapi 5.
 - 🌐 Engineer data solutions to support business intelligence and operational optimisation.
 - 🎨 Build responsive web interfaces using HTML, CSS, Bootstrap, and JavaScript.
-- 🔧 Automate workflows with tools such as Power Automate and Microsoft Azure.
+- 🔧 Automate workflows with tools such as Power Automate, n8n, and Microsoft Azure.
+- 🐳 Containerize applications using Docker for consistent deployment and scalability.
   
 ## 🔥 Current Projects
 - **IMS project**: Invatory management system for an health service.
@@ -21,7 +22,8 @@ Hi, I'm Wilhelm, an experienced professional with over 15 years in the healthcar
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />    
+  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />    
 </div>
 
 ##
@@ -40,6 +42,8 @@ Hi, I'm Wilhelm, an experienced professional with over 15 years in the healthcar
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 🌌 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilhelm-jakobus-maritz-7a561b12b/)
