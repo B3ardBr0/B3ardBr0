@@ -45,4 +45,3 @@ I spent most of my career in healthcare operations, started automating the manua
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjmaritz@protonmail.com)
 [![boot.dev](https://img.shields.io/badge/boot.dev-3B82F6?style=for-the-badge&logo=python&logoColor=white)](https://www.boot.dev/u/b3ardbr0)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ardBr0&theme=onedark)
