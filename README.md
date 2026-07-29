@@ -45,3 +45,5 @@ I spent most of my career in healthcare operations, started automating the manua
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjmaritz@protonmail.com)
 [![boot.dev](https://img.shields.io/badge/boot.dev-3B82F6?style=for-the-badge&logo=python&logoColor=white)](https://www.boot.dev/u/b3ardbr0)
 
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ae96c55c-494e-49ed-bbcc-109ea70305ca.jpeg?v=1736952673)](https://www.boot.dev/certificates/ae96c55c-494e-49ed-bbcc-109ea70305ca)
+
