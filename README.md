@@ -11,7 +11,6 @@ I spent most of my career in healthcare operations, started automating the manua
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 
 **Automating**
 
@@ -26,6 +25,7 @@ I spent most of my career in healthcare operations, started automating the manua
 ![WSL](https://img.shields.io/badge/Linux%20%2F%20WSL-0A97F5?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ## Public projects
