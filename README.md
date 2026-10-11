@@ -30,6 +30,8 @@ I spent most of my career in healthcare operations, started automating the manua
 
 ## Public projects
 
+- [railway-bridge](https://github.com/B3ardBr0/railway-bridge): Railway has no Prometheus export, so this polls its API and serves request counters, latency, resources and deploys for Grafana. One file, standard library only
+- [kuma-monitors](https://github.com/B3ardBr0/kuma-monitors): Uptime Kuma monitors declared in Python, with a guard that refuses to finish while any monitor can't alert ([the outage that taught me why](https://wjmaritz.dev/posts/alert-never-sent/))
 - [powerautomate-connection-health-checker](https://github.com/B3ardBr0/powerautomate-connection-health-checker): scans a Power Platform tenant for broken or expiring connections and maps which flows they would take down
 - [powerautomate-flowfailure-checker](https://github.com/B3ardBr0/powerautomate-flowfailure-checker): sweeps all environments for flows that failed in the last N hours, into one report
 - [folder-locker](https://github.com/B3ardBr0/folder-locker): a Windows batch folder-hiding trick, honestly documented as a privacy trick and not security
